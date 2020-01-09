@@ -1,0 +1,7 @@
+Dupicate folder structure, recreate all files with zero size.
+
+Usage:
+ CloneFolder <folder destination> <folder source>
+Emample:
+ CloneFolder E:\Clone E:\FTP
+
